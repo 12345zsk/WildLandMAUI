@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:pages="clr-namespace:WildLandMAUI"
+    x:Class="WildLandMAUI.AppShell">
+
+    <TabBar>
+        <ShellContent Title="首页" Icon="home.png" ContentTemplate="{DataTemplate pages:HomePage}" />
+        <ShellContent Title="营地预约" Icon="calendar.png" ContentTemplate="{DataTemplate pages:ReservationPage}" />
+        <ShellContent Title="帖子" Icon="post.png" ContentTemplate="{DataTemplate pages:PostsPage}" />
+        <ShellContent Title="论坛" Icon="forum.png" ContentTemplate="{DataTemplate pages:ForumPage}" />
+    </TabBar>
+
+</Shell>

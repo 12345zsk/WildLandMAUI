@@ -1,0 +1,71 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WildLandMAUI
+build_property.ProjectDir = E:\Tongji\da-san-xia\dotnet\Final\WildLandMAUI\WildLandMAUI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[E:/Tongji/da-san-xia/dotnet/Final/WildLandMAUI/WildLandMAUI/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WildLandMAUI.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[E:/Tongji/da-san-xia/dotnet/Final/WildLandMAUI/WildLandMAUI/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WildLandMAUI.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[E:/Tongji/da-san-xia/dotnet/Final/WildLandMAUI/WildLandMAUI/Pages/ForumPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WildLandMAUI.Pages.ForumPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ForumPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ForumPage.xaml
+
+[E:/Tongji/da-san-xia/dotnet/Final/WildLandMAUI/WildLandMAUI/Pages/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WildLandMAUI.Pages.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\HomePage.xaml
+
+[E:/Tongji/da-san-xia/dotnet/Final/WildLandMAUI/WildLandMAUI/Pages/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WildLandMAUI.Pages.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\MainPage.xaml
+
+[E:/Tongji/da-san-xia/dotnet/Final/WildLandMAUI/WildLandMAUI/Pages/PostsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WildLandMAUI.Pages.PostsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\PostsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\PostsPage.xaml
+
+[E:/Tongji/da-san-xia/dotnet/Final/WildLandMAUI/WildLandMAUI/Pages/ReservationPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WildLandMAUI.Pages.ReservationPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ReservationPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ReservationPage.xaml
+
+[E:/Tongji/da-san-xia/dotnet/Final/WildLandMAUI/WildLandMAUI/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WildLandMAUI.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[E:/Tongji/da-san-xia/dotnet/Final/WildLandMAUI/WildLandMAUI/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WildLandMAUI.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
